@@ -211,4 +211,14 @@
   .qhcd-static{padding-top:14px;list-style: none;padding:0;}
   .qhcd-static li{margin-top:10px;}
   .qhcd-static li a{height:38px;line-height:38px;padding:0 12px;color:#333;font-size:14px;display:block;}
+
+
+  .table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+}
   

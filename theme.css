@@ -2,11 +2,6 @@
 * Based on Bootstrap v4.0.0 (https://getbootstrap.com) 
 */
 @import url("https://fonts.googleapis.com/css?family=Roboto");
-@import url("https://fonts.googleapis.com/css?family=Catamaran");
-@import url("https://fonts.googleapis.com/css?family=Helvetica");
-@import url("https://fonts.googleapis.com/css?family=Helvetica Neue");
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
-@import url("https://fonts.googleapis.com/css?family=Roboto");
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors
@@ -49,7 +44,7 @@
   box-sizing: border-box; }
 
 html {
-  font-family: sans-serif;
+  font-family:arial;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
